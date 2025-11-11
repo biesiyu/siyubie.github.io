@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: siyubie2-c[at]my.cityu.edu.hk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Joint Ph.D. in Finance and Business Statistics, City University of Hong Kong, 2023—2026 (expected).\
+Ph.D. in Statistics, East China Normal University, 2022-2026 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Asset Pricing, Financial Econometrics, Machine Learning and LLMs.
 
