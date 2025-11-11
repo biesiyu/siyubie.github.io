@@ -7,10 +7,10 @@ and in Statistics at East China Normal University. My research focuses on empiri
 financial econometrics, machine learning and large language models.
 
 
-
-#### Contact
-
 Email: siyubie2-c@my.cityu.edu.hk
+
+[Google Scholar](https://scholar.google.com/citations?user=t3hnM8UAAAAJ&hl=en) | [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6815019)
+
 
 #### Education
 Joint Ph.D., Department of Decision Analytics and Operations, City University of Hong Kong, 2023-2026 (expected).\
