@@ -19,7 +19,7 @@
 
 <p><strong>2026</strong></p>
 <ul>
-  <li>Hawaii Accounting Research Conference (HARC) 2026, Hawaii (scheduled)</li>
+  <li>Hawaii Accounting Research Conference (HARC) 2026*, Hawaii (scheduled)</li>
 </ul>
 
 <p><strong>2025</strong></p>
