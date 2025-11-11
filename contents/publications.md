@@ -1,18 +1,18 @@
 #### Publications
 
-- <strong>Bie, Siyu</strong>, Guanhao Feng, Naixin Guo, and Jingyu He. "Can news predict firm bankruptcy?." Journal of Financial Markets (2025): 101002. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022837)
+- <strong>Bie, Siyu</strong>, Guanhao Feng, Naixin Guo, and Jingyu He. "Can news predict firm bankruptcy?." Journal of Financial Markets (2025): 101002. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022837" target="_blank">[Paper]</a>
 
 
 #### Working Papers
 
 - Cross-Market News Sentiment and Trading Volume.  
- with [Guanhao Feng](https://gavinfeng702.com/), Naixin Guo and [Jingyu He](https://jingyuhe.com/), 2025.
+ with <a href="https://gavinfeng702.com/" target="_blank">Guanhao Feng</a>, Naixin Guo and <a href="https://jingyuhe.com/" target="_blank">Jingyu He</a>, 2025.
 
 - Loan Loss Predictability from Macroeconomic Factors.  
- with [Jingyu He](https://jingyuhe.com/), [Sehwa Kim](https://sites.google.com/view/sehwakim) and [Yao Lu](https://www.yao-lu.net/), 2025.
+ with <a href="https://jingyuhe.com/" target="_blank">Jingyu He</a>, <a href="https://sites.google.com/view/sehwakim" target="_blank">Sehwa Kim</a> and <a href="https://www.yao-lu.net/" target="_blank">Yao Lu</a>, 2025.
 
 - Machine Learning and the Yield Curve: Tree-Based Macroeconomic Regime Switching.  
- with [Francis X. Diebold](https://www.sas.upenn.edu/~fdiebold/), [Jingyu He](https://jingyuhe.com/) and [Junye Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012130), 2024. Under review. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4934442)
+ with <a href="https://www.sas.upenn.edu/~fdiebold/" target="_blank">Francis X. Diebold</a>, <a href="https://jingyuhe.com/" target="_blank">Jingyu He</a> and <a href="https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012130" target="_blank">Junye Li</a>, 2024. Under review. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4934442" target="_blank">[Paper]</a>
 
 
 #### Presentations

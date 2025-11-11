@@ -1,7 +1,3 @@
-
-
-<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
-
 I am a joint Ph.D. candidate in Finance and Business Statistics at City University of Hong Kong
 and in Statistics at East China Normal University. My research focuses on empirical asset pricing,
 financial econometrics, machine learning and large language models.
@@ -9,7 +5,7 @@ financial econometrics, machine learning and large language models.
 
 Email: siyubie2-c@my.cityu.edu.hk
 
-[Google Scholar](https://scholar.google.com/citations?user=t3hnM8UAAAAJ&hl=en) | [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6815019)
+<a href="https://scholar.google.com/citations?user=t3hnM8UAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6815019" target="_blank">SSRN</a>
 
 
 #### Education
